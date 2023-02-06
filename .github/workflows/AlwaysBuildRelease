@@ -1,6 +1,9 @@
-name: Build and Release
+name: Build and Release on Commit
 
-
+on:
+  push:
+    branches:
+      -master
 
 jobs:
   build:
