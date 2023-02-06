@@ -1,3 +1,3 @@
 # Nanoblox Core
-Documentation coming soon
+# Documentation coming soon
 https://nanoblox.github.io/core/
